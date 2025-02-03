@@ -39,7 +39,7 @@ Inside `index.html`:
 - [x] Update image <!--Was not able to use the current css file for the image. Made a new CSS file to keep the sizing and spacing for the image comprable to the original page. CSS class tag was renamed to 'image'-->
 - [x] Update title <!--I don't think I changed anything-->
 - [x] Update paragraphs <!--All paragraphs were updated at the same time-->
-- [ ] Verify all tags are updated and push back to repo
+- [x] Verify all tags are updated and push back to repo
 
 
 ### Tips
