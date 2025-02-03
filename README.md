@@ -32,8 +32,8 @@ To view the project locally, you can either open the project files in your code 
 
 Inside `index.html`:
 - [ ] Update the HTML tags so that they are correct and semantic
-- [ ] Update header
-- [ ] Update footer 
+- [x] Update header
+- [x] Update footer 
 - [ ] Update article
 - [ ] Update image
 - [ ] Update title
