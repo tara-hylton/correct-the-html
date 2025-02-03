@@ -36,7 +36,7 @@ Inside `index.html`:
 - [x] Update footer <!--added task-->
 - [x] Updated main
 - [x] Update article
-- [ ] Update image
+- [x] Update image <!--Was not able to use the current css file for the image. Made a new CSS file to keep the sizing and spacing for the image comprable to the original page. CSS class tag was renamed to 'image'-->
 - [ ] Update title
 - [ ] Update paragraphs
 - [ ] Verify all tags are updated and push back to repo
