@@ -35,7 +35,7 @@ Inside `index.html`:
 - [x] Update header
 - [x] Update footer <!--added task-->
 - [x] Updated main
-- [ ] Update article
+- [x] Update article
 - [ ] Update image
 - [ ] Update title
 - [ ] Update paragraphs
