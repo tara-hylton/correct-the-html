@@ -37,8 +37,8 @@ Inside `index.html`:
 - [x] Updated main
 - [x] Update article
 - [x] Update image <!--Was not able to use the current css file for the image. Made a new CSS file to keep the sizing and spacing for the image comprable to the original page. CSS class tag was renamed to 'image'-->
-- [ ] Update title
-- [ ] Update paragraphs
+- [x] Update title <!--I don't think I changed anything-->
+- [x] Update paragraphs <!--All paragraphs were updated at the same time-->
 - [ ] Verify all tags are updated and push back to repo
 
 
